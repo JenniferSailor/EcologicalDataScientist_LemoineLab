@@ -20,6 +20,6 @@ Contents:
 - P1_Species6
   - Description
     - TBA
-  - Presentation:
-  - Paper:
-  - Python Code:
+- P2_Species71
+  - Description
+    - TBA
