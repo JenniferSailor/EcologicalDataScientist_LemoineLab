@@ -16,10 +16,10 @@ Responsibilities:
 Links: https://natelemoine.com/
 
 Contents:
-- Still Under Construction :)
 - P1_Species6
   - Description
-    - TBA
+    - From March 2023 to August 2023 I worked specifically with 6 species of Butterflies observation records. The goal was to create an algorithm that can be used across all the species records, that I want to pull, that filters, cleans, integrates, and then trains the ensemble machine learning algorithm. This work was then presented as my Master's Practicum.
 - P2_Species71
   - Description
-    - TBA
+    - From August 2023 to the Present I have expanded my original project to 71 species of Butterflies and are improving on the algorithm created. Now having more results the focus has switched to conducting statistical analysis to discover trends in the species distribution.
+    - Since this is ongoing the contents is empty in this folder.
