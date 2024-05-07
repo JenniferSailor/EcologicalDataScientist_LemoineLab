@@ -27,4 +27,4 @@ Contents:
 - P2_Species71
   - Description
     - From August 2023 to the Present I have expanded my original project to 71 species of Butterflies and are improving on the algorithm created. Now having more results the focus has switched to conducting statistical analysis to discover trends in the species distribution.
-    - Since this is ongoing the contents is empty in this folder.
+  - Since this is ongoing the contents is empty in this folder.
