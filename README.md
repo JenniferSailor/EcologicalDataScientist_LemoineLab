@@ -2,7 +2,7 @@
 Date: March 2023 - Present
 
 Keywords:
-Machine Learning, Species Distributions, Statistical Analysis, Ecology
+Machine Learning, Species Distributions, Statistical Analysis, Ecology, Python
 
 Description:
 As a volunteer researcher, I worked on machine learning and statistical projects to model species distributions for present-day and future climate scenarios.
