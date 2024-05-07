@@ -19,6 +19,11 @@ Contents:
 - P1_Species6
   - Description
     - From March 2023 to August 2023 I worked specifically with 6 species of Butterflies observation records. The goal was to create an algorithm that can be used across all the species records, that I want to pull, that filters, cleans, integrates, and then trains the ensemble machine learning algorithm. This work was then presented as my Master's Practicum.
+  - Coding Folders
+    - The folders are in order based on the order the code needs to run.
+  - Proposal Paper: 1 Page paper on the intent of the project
+  - Report Paper: Outlining the project that was completed
+  - Presentation: A 20-minute presentation given on the results of the project
 - P2_Species71
   - Description
     - From August 2023 to the Present I have expanded my original project to 71 species of Butterflies and are improving on the algorithm created. Now having more results the focus has switched to conducting statistical analysis to discover trends in the species distribution.
