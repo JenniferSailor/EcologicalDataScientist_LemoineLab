@@ -1,0 +1,7 @@
+family,genus,species,status,updated_family,updated_genus,updated_species,occur_gbif_africa,occur_gbif_knp,genus_species,updated_genus_species
+Nynphalidae,Danaus,chrysippus,C,,,,6823.0,2216.0,Danaus chrysippus,
+Nynphalidae,Cynthia,cardui,C,Nynphalidae,Vanessa,cardui,5674.0,2140.0,Cynthia cardui,Vanessa cardui
+Pieridae,Belenois,aurota,C,,,,3880.0,1911.0,Belenois aurota,
+Nynphalidae,Bicyclus,safitza,R,Nynphalidae,Mycalesis,rhacotis,2153.0,1313.0,Bicyclus safitza,Mycalesis rhacotis
+Lycaenidae,Cacyreus,marshalli,R,,,,1586.0,864.0,Cacyreus marshalli,
+Pieridae,Eronia,cleodora,R,,,,1376.0,520.0,Eronia cleodora,
